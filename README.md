@@ -7,3 +7,7 @@
 
 
 ### Contact me 
+
+## Hobbies 
+
+-Dance
