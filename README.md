@@ -7,3 +7,8 @@
 
 
 ### Contact me 
+
+## Skills
+
+- Picante
+- Coach
