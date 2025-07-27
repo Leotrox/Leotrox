@@ -1,4 +1,4 @@
-# Hello! I'm Leo! Full Stack Developer la concha de la lora
+# Hello! I'm Leo! Full Stack Developer
 
 
 
