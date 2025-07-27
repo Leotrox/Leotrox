@@ -7,3 +7,11 @@
 
 
 ### Contact me 
+
+## Technologies 
+
+-HTML
+
+-JS
+
+-CS
