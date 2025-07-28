@@ -9,6 +9,9 @@
 ### Contact me 
 
 
+## Lenguages
+- Inglish
+- Espa;ol
 
 
 
