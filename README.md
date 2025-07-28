@@ -12,3 +12,29 @@
 ## Lenguages
 - Inglish
 - Espa;ol
+
+
+
+## Hobbies 
+
+-Dance
+
+
+## Technologies 
+
+-HTML
+
+-JS
+
+-CS
+## Skills
+
+- Picante
+- Coach
+
+## Skills
+
+- Picante
+- Coach
+
+
