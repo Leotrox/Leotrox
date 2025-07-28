@@ -8,6 +8,23 @@
 
 ### Contact me 
 
+
 ## Hobbies 
 
 -Dance
+=======
+
+
+
+
+
+## Technologies 
+
+-HTML
+
+-JS
+
+-CS
+
+
+
