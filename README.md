@@ -9,13 +9,12 @@
 ### Contact me 
 
 
+
+
+
 ## Hobbies 
 
 -Dance
-=======
-
-
-
 
 
 ## Technologies 
@@ -25,6 +24,14 @@
 -JS
 
 -CS
+## Skills
 
+- Picante
+- Coach
+
+## Skills
+
+- Picante
+- Coach
 
 
